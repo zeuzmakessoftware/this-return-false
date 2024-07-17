@@ -1,5 +1,5 @@
 {
-  "name": "return-false",
+  "name": "this-returns-false",
   "version": "1.0.0",
   "description": "it returns stuff false",
   "main": "index.js",
